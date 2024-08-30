@@ -1,0 +1,20 @@
+.rara{
+    
+   border-radius: 10px;
+    background-image: url(./image/dR.jpg);
+    width: 900px;
+    height: 500px;
+    border: 15px solid skyblue;
+    padding: 50px;
+    margin: 200px;
+}
+.raa{
+    background-color:yellow;
+   width: 400px;
+    border-radius: 10px;
+
+
+    border: 15px solid rgb(82, 124, 148);
+    padding: 50px;
+    margin: 200px;
+}

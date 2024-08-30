@@ -1,0 +1,20 @@
+.rara{
+    background-color: lightgrey;
+    width: 400px;
+
+    border: 15px solid rgb(251, 90, 32);
+    padding: 50px;
+    margin: 100px;
+
+}
+
+.btn {
+    background-color:rgb(188, 84, 150);
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 16px;
+  }
+  
